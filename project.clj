@@ -13,4 +13,12 @@
   :global-vars {*warn-on-reflection* true}
   :plugins [[lein-tools-deps "0.4.5"]]
   :middleware [lein-tools-deps.plugin/resolve-dependencies-with-deps-edn]
-  :lein-tools-deps/config {:config-files [:project]})
+  :lein-tools-deps/config {:config-files [:project]}
+  :deploy-repositories [["clojars" {:sign-releases false
+                                    :url "https://clojars.org/repo"
+                                    :username :env/WALTER_CLOJARS_USERNAME
+                                    :password :env/WALTER_CLOJARS_PASSWORD}]
+                        ["github" {:sign-releases false
+                                   :url "https://maven.pkg.github.com/piotr-yuxuan/ephemeral-server"
+                                   :username :env/GITHUB_ACTOR
+                                   :password :env/WALTER_GITHUB_PASSWORD}]])
