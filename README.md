@@ -1,5 +1,7 @@
 # `ephemeral-server`
 
+![](./doc/ephemeral-server.jpg)
+
 One-function library that helps to open ephemeral servers.
 
 [![](https://img.shields.io/clojars/v/piotr-yuxuan/ephemeral-server.svg)](https://clojars.org/piotr-yuxuan/ephemeral-server)
