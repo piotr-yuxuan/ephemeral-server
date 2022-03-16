@@ -4,7 +4,8 @@
 
 One-function library that helps to open ephemeral servers.
 
-[![](https://img.shields.io/clojars/v/piotr-yuxuan/ephemeral-server.svg)](https://clojars.org/piotr-yuxuan/ephemeral-server)
+[![Clojars badge](https://img.shields.io/clojars/v/piotr-yuxuan/ephemeral-server.svg)](https://clojars.org/piotr-yuxuan/ephemeral-server)
+[![Clojars downloads](https://img.shields.io/clojars/dt/piotr-yuxuan/ephemeral-server)](https://clojars.org/piotr-yuxuan/ephemeral-server)
 [![cljdoc badge](https://cljdoc.org/badge/piotr-yuxuan/ephemeral-server)](https://cljdoc.org/d/piotr-yuxuan/ephemeral-server/CURRENT)
 [![GitHub license](https://img.shields.io/github/license/piotr-yuxuan/ephemeral-server)](https://github.com/piotr-yuxuan/ephemeral-server/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/piotr-yuxuan/ephemeral-server)](https://github.com/piotr-yuxuan/ephemeral-server/issues)
