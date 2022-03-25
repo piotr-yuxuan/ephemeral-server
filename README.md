@@ -4,6 +4,7 @@
 
 One-function library that helps to open ephemeral servers.
 
+[![Build status](https://img.shields.io/github/workflow/status/piotr-yuxuan/ephemeral-server/Walter%20CD)](https://github.com/piotr-yuxuan/ephemeral-server/actions/workflows/walter-cd.yml)
 [![Clojars badge](https://img.shields.io/clojars/v/piotr-yuxuan/ephemeral-server.svg)](https://clojars.org/piotr-yuxuan/ephemeral-server)
 [![Clojars downloads](https://img.shields.io/clojars/dt/piotr-yuxuan/ephemeral-server)](https://clojars.org/piotr-yuxuan/ephemeral-server)
 [![cljdoc badge](https://cljdoc.org/badge/piotr-yuxuan/ephemeral-server)](https://cljdoc.org/d/piotr-yuxuan/ephemeral-server/CURRENT)
