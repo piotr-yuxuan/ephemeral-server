@@ -1,5 +1,6 @@
 (defproject piotr-yuxuan/ephemeral-server (-> "./resources/ephemeral-server.version" slurp .trim)
   :description "A small, closeable test server to catch http calls you don't mock"
+  :github/private? false
   :url "https://github.com/piotr-yuxuan/ephemeral-server"
   :license {:name "GNU General Public License v3.0 or later"
             :url "https://www.gnu.org/licenses/gpl-3.0.en.html"
