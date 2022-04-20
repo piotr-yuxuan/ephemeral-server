@@ -11,9 +11,9 @@
                               [:name "胡雨軒 Петр"]
                               [:url "https://github.com/piotr-yuxuan"]]]
   :global-vars {*warn-on-reflection* true}
-  :dependencies [[metosin/reitit-ring "0.5.12"]
-                 [aleph/aleph "0.4.7-alpha7"]
-                 [org.clojure/clojure "1.10.0"]]
+  :dependencies [[metosin/reitit-ring "0.5.18"]
+                 [aleph/aleph "0.4.7"]
+                 [org.clojure/clojure "1.11.1"]]
   :deploy-repositories [["clojars" {:sign-releases false
                                     :url "https://clojars.org/repo"
                                     :username :env/WALTER_CLOJARS_USERNAME
