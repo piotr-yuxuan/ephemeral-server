@@ -1,5 +1,5 @@
 Library name,Version,License name
-"aleph","0.5.0-rc2","MIT License"
+"aleph","0.5.0-rc3","MIT License"
 "clj-tuple","0.2.2","MIT License"
 "commons-codec","1.15","Apache License, Version 2.0"
 "commons-fileupload","1.4","Apache License, Version 2.0"
