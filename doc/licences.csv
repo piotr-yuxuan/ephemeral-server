@@ -1,5 +1,5 @@
 Library name,Version,License name
-"aleph","0.5.0-rc3","MIT License"
+"aleph","0.5.0","MIT License"
 "clj-tuple","0.2.2","MIT License"
 "commons-codec","1.15","Apache License, Version 2.0"
 "commons-fileupload","1.4","Apache License, Version 2.0"
@@ -27,6 +27,7 @@ Library name,Version,License name
 "metosin/reitit-core","0.5.18","Eclipse Public License"
 "metosin/reitit-ring","0.5.18","Eclipse Public License"
 "org.clj-commons/byte-streams","0.3.1","MIT License"
+"org.clj-commons/dirigiste","1.0.1","MIT License"
 "org.clj-commons/primitive-math","1.0.0","MIT License"
 "org.clojure/clojure","1.12.0-alpha1","Eclipse Public License 1.0"
 "org.clojure/core.specs.alpha","0.2.62","Eclipse Public License 1.0"
