@@ -39,7 +39,7 @@ Library name,Version,License name
 "org.clj-commons/byte-streams","0.3.2","MIT License"
 "org.clj-commons/dirigiste","1.0.3","MIT License"
 "org.clj-commons/primitive-math","1.0.0","MIT License"
-"org.clojure/clojure","1.12.0-alpha4","Eclipse Public License 1.0"
+"org.clojure/clojure","1.12.0-alpha5","Eclipse Public License 1.0"
 "org.clojure/core.rrb-vector","0.1.2","Eclipse Public License 1.0"
 "org.clojure/core.specs.alpha","0.2.62","Eclipse Public License 1.0"
 "org.clojure/spec.alpha","0.3.218","Eclipse Public License 1.0"
