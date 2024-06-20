@@ -12,7 +12,7 @@
                               [:url "https://github.com/piotr-yuxuan"]]]
   :global-vars {*warn-on-reflection* true}
   :dependencies [[metosin/reitit-ring "0.7.0"]
-                 [aleph/aleph "0.8.0"]
+                 [aleph/aleph "0.8.1"]
                  [org.clojure/clojure "1.12.0-beta1"]]
   :deploy-repositories [["clojars" {:sign-releases false
                                     :url "https://clojars.org/repo"
