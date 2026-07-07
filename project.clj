@@ -13,7 +13,7 @@
   :global-vars {*warn-on-reflection* true}
   :dependencies [[metosin/reitit-ring "0.10.1"]
                  [aleph/aleph "0.9.9"]
-                 [org.clojure/clojure "1.13.0-alpha2"]]
+                 [org.clojure/clojure "1.13.0-alpha3"]]
   :deploy-repositories [["clojars" {:sign-releases false
                                     :url "https://clojars.org/repo"
                                     :username :env/WALTER_CLOJARS_USERNAME
